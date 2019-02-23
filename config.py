@@ -1,9 +1,16 @@
-PORT = 3256
+# server = tgmember.com
+# server = ns1.tgmember.com
+# server = ns2.tgmember.com
+# server = ns3.tgmember.com
+# server = ns4.tgmember.com
+
+PORT = 1080
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "00000000000000000000000000000000",
-    "tg2": "0123456789abcdef0123456789abcdef"
+    "tg":  "65768f768ff87f8fddd75dfed5d57dff",
+    "tg1": "e4f56789ed5f678ef5678345678765f6",
+    "tg3": "3476476f654cf764cfc754276597fd5e",
 }
 
 # Tag for advertising, obtainable from @MTProxybot
