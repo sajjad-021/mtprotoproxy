@@ -4,7 +4,7 @@
 # server = ns3.tgmember.com
 # server = ns4.tgmember.com
 
-PORT = 1080
+PORT = 3076
 
 # name -> secret (32 hex chars)
 USERS = {
